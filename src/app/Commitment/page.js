@@ -1,10 +1,10 @@
+import Commitment from "@/components/Commitment/Commitment";
 import React from "react";
-import HomePage from "@/components/HomePage/HomePage";
 
 function page() {
   return (
     <div>
-      <HomePage />
+      <Commitment />
     </div>
   );
 }
