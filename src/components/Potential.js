@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import placeholder from "@/Assets//Placeholder4.png";
+import placeholder from "@/Images/Placeholder4.png";
 function Potential() {
   return (
     <section className=" flex justify-center items-center gap-[80px] p-20 font-Montserrat bg-customBackground">

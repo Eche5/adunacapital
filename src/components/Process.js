@@ -1,8 +1,8 @@
 import Image from "next/image";
 import React from "react";
-import engage from "@/Assets//image 201.png";
-import deligence from "@/Assets//image 211.png";
-import beyond from "@/Assets//image 222.png";
+import engage from "@/Images/image201.png";
+import deligence from "@/Images/image211.png";
+import beyond from "@/Images/image222.png";
 
 function Process() {
   return (

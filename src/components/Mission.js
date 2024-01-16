@@ -1,5 +1,5 @@
 import React from "react";
-import placeholder from "@/Assets//Placeholder Image3.png";
+import placeholder from "@/Images/PlaceholderImage3.png";
 import Image from "next/image";
 
 function Mission() {

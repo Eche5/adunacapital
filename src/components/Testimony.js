@@ -1,10 +1,10 @@
 import React from "react";
-import flow from "@/Assets//Logo=2, Color=Dark.png";
+import flow from "@/Images/Logo=2, Color=Dark.png";
 import Image from "next/image";
-import avatar from "@/Assets//Avatar Image.png";
+import avatar from "@/Images/Avatar Image.png";
 function Testimony() {
   return (
-    <div className=" font-Montserrat">
+    <div className=" font-Montserrat bg-customBackground">
       <h1 className=" text-[40px] font-bold text-center text-customGrey">
         Customer Testimonials
       </h1>
@@ -25,6 +25,11 @@ function Testimony() {
             and<br></br>
             achieve new heights.&quot;
           </p>
+          <div className="flex flex-col items-center my-10">
+            <Image src={avatar} className=" my-4" />
+            <h1>John Doe</h1>
+            <p>CEO, XYZ Company</p>
+          </div>
         </div>
         <div>
           <Image alt="#" src={flow} />
@@ -33,6 +38,11 @@ function Testimony() {
             in our growth<br></br> and expansion. We couldn&apos;t have<br></br>
             done it without them.&quot;
           </p>
+          <div className="flex flex-col items-center my-10">
+            <Image src={avatar} className=" my-4" />
+            <h1>Jane Smith</h1>
+            <p>Founder, ABC Startup</p>
+          </div>
         </div>
         <div>
           <Image alt="#" src={flow} />
@@ -41,6 +51,11 @@ function Testimony() {
             move for us. Their<br></br> network and resources have<br></br>
             opened doors to new opportunities.&quot;
           </p>
+          <div className="flex flex-col items-center my-10">
+            <Image src={avatar} className=" my-4" />
+            <h1>Mark Johnson</h1>
+            <p>COO, PQR Ventures</p>
+          </div>
         </div>
         <button className=" bg-customBackground border-2 border-[black]   w-8 h-8 items-center rounded-3xl">
           &rarr;

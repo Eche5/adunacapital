@@ -1,5 +1,5 @@
 import React from "react";
-import Placeholder from "@/Assets//Placeholder Image.png";
+import Placeholder from "@/Images/PlaceholderImage.png";
 import Image from "next/image";
 
 function HomeBody() {

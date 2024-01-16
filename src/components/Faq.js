@@ -14,35 +14,35 @@ function Faq() {
       <div className=" px-80 py-20">
         <div>
           <hr />
-          <div className=" flex justify-between py-4 gap-40">
+          <div className=" flex justify-between py-4 px-2 gap-40">
             <h1>What is your investment criteria?</h1>
             <span>+</span>
           </div>
           <hr />
         </div>
         <div>
-          <div className=" flex justify-between py-4 gap-40">
+          <div className=" flex justify-between py-4 px-2 gap-40">
             <h1>What support do you offer?</h1>
             <span>+</span>
           </div>
           <hr />
         </div>
         <div>
-          <div className=" flex justify-between py-4 gap-40">
+          <div className=" flex justify-between py-4 px-2 gap-40">
             <h1>How can I collaborate?</h1>
             <span>+</span>
           </div>
           <hr />
         </div>
         <div>
-          <div className=" flex justify-between py-4 gap-40">
+          <div className=" flex justify-between py-4 px-2 gap-40">
             <h1>How can I apply?</h1>
             <span>+</span>
           </div>
           <hr />
         </div>
         <div>
-          <div className=" flex justify-between py-4 gap-40">
+          <div className=" flex justify-between py-4 px-2 gap-40">
             <h1>What is your process?</h1>
             <span>+</span>
           </div>

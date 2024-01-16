@@ -1,9 +1,9 @@
 import Image from "next/image";
 import React from "react";
-import team1 from "@/Assets//Team1.png";
-import team2 from "@/Assets//Team2.png";
-import team3 from "@/Assets//Team3.png";
-import team4 from "@/Assets//Team4.png";
+import team1 from "@/Images/Team1.png";
+import team2 from "@/Images/Team2.png";
+import team3 from "@/Images/Team3.png";
+import team4 from "@/Images/Team4.png";
 
 function Team() {
   return (

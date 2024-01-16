@@ -1,9 +1,9 @@
 import React from "react";
-import one from "@/Assets//image 16.png";
-import two from "@/Assets//image 17.png";
-import three from "@/Assets//image 18.png";
-import four from "@/Assets//image 19.png";
-import divider from "@/Assets//Divider.png";
+import one from "@/Images/image16.png";
+import two from "@/Images/image17.png";
+import three from "@/Images/image18.png";
+import four from "@/Images/image19.png";
+import divider from "@/Images/Divider.png";
 
 import Image from "next/image";
 

@@ -1,9 +1,9 @@
 import React from "react";
-import placholde from "@/Assets//Placeholder.png";
-import placholder1 from "@/Assets//Placeholder1.png";
-import placholder2 from "@/Assets//Placeholder2.png";
-import logo1 from "@/Assets//Logo.png";
-import logo2 from "@/Assets//Logo=2, Color=Dark.png";
+import placholde from "@/Images/Placeholder.png";
+import placholder1 from "@/Images/Placeholder1.png";
+import placholder2 from "@/Images/Placeholder2.png";
+import logo1 from "@/Images/Logo.png";
+import logo2 from "@/Images/Logo=2, Color=Dark.png";
 
 import Image from "next/image";
 function Investment() {

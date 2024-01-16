@@ -1,5 +1,5 @@
 import React from "react";
-import placeholder from "@/Assets//Placeholder Image5.png";
+import placeholder from "@/Images/PlaceholderImage5.png";
 import Image from "next/image";
 
 function Strategy() {

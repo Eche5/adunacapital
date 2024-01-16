@@ -1,10 +1,10 @@
 import React from "react";
-import place from "@/Assets//Placeholder Image0.png";
+import place from "@/Images/PlaceholderImage0.png";
 import Image from "next/image";
-import tailor from "@/Assets//image 12.png";
-import geda from "@/Assets//image 13.png";
-import market from "@/Assets//image 14.png";
-import growth from "@/Assets//image 15.png";
+import tailor from "@/Images/image12.png";
+import geda from "@/Images/image13.png";
+import market from "@/Images/image14.png";
+import growth from "@/Images/image15.png";
 
 function Partner() {
   return (
