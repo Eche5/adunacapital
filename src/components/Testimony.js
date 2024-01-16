@@ -1,7 +1,7 @@
 import React from "react";
-import flow from "../../Assets/Logo=2, Color=Dark.png";
+import flow from "@/Assets//Logo=2, Color=Dark.png";
 import Image from "next/image";
-import avatar from "../../Assets/Avatar Image.png";
+import avatar from "@/Assets//Avatar Image.png";
 function Testimony() {
   return (
     <div className=" font-Montserrat">

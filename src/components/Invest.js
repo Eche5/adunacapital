@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import placeholder from "../../Assets/Placeholder Image4.png";
+import placeholder from "@/Assets//Placeholder Image4.png";
 
 function Invest() {
   return (

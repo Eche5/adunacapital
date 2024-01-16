@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import logo from "../../Assets/image 4.png";
+import logo from "@/Assets//image 4.png";
 function Footer() {
   return (
     <div className=" bg-customRed p-20  font-Montserrat">

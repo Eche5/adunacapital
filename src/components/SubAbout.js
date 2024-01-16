@@ -1,9 +1,9 @@
 import Image from "next/image";
 import React from "react";
-import idea from "../../Assets/Image 5.png";
-import integrity from "../../Assets/Image 6.png";
-import impact from "../../Assets/Image 7.png";
-import inclusivity from "../../Assets/Image 8.png";
+import idea from "@/Assets//Image 5.png";
+import integrity from "@/Assets//Image 6.png";
+import impact from "@/Assets//Image 7.png";
+import inclusivity from "@/Assets//Image 8.png";
 
 function SubAbout() {
   return (
