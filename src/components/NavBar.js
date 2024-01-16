@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import Image from "next/image";
-import Logo from "@/Images/Image1.png";
+import Logo from "@/Images/image1.png";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 function NavBar() {

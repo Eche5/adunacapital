@@ -1,8 +1,8 @@
 import Image from "next/image";
 import React from "react";
-import enviro from "@/Images/Image20.png";
-import social from "@/Images/Image21.png";
-import govern from "@/Images/Image11.png";
+import enviro from "@/Images/image20.png";
+import social from "@/Images/image21.png";
+import govern from "@/Images/image11.png";
 
 function Policy() {
   return (
