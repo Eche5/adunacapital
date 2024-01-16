@@ -18,27 +18,28 @@ function Testimony() {
         <div>
           <Image alt="#" src={flow} />
           <p>
-            "Working with Aduna Capital has<br></br> been a game-changer for our
+            &quot;Working with Aduna Capital has<br></br> been a game-changer
+            for our
             <br></br>
             business. Their expertise and<br></br> support have helped us scale
             and<br></br>
-            achieve new heights."
+            achieve new heights.&quot;
           </p>
         </div>
         <div>
           <Image alt="#" src={flow} />
           <p>
-            "Aduna Capital's investment has<br></br> been instrumental in our
-            growth<br></br> and expansion. We couldn't have<br></br> done it
-            without them."
+            &quot;Aduna Capital&apos;s investment has<br></br> been instrumental
+            in our growth<br></br> and expansion. We couldn&apos;t have<br></br>
+            done it without them.&quot;
           </p>
         </div>
         <div>
           <Image alt="#" src={flow} />
           <p>
-            "Partnering with Aduna Capital has<br></br> been a strategic move
-            for us. Their<br></br> network and resources have<br></br> opened
-            doors to new opportunities."
+            &quot;Partnering with Aduna Capital has<br></br> been a strategic
+            move for us. Their<br></br> network and resources have<br></br>
+            opened doors to new opportunities.&quot;
           </p>
         </div>
         <button className=" bg-customBackground border-2 border-[black]   w-8 h-8 items-center rounded-3xl">

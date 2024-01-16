@@ -15,12 +15,13 @@ function Strategy() {
         </h2>
         <p>
           Our strategy is twofold: we invest in tech-driven solutions and
-          infrastructure projects that are crucial for the continent's growth.
-          By supporting startups that develop innovative infrastructure –
-          whether in transportation, telecommunications, energy, or other
-          essential sectors – we aim to lay the groundwork for Africa's future
-          development. Our investments in tech-enabled businesses complement
-          this by driving digital transformation and economic diversification.
+          infrastructure projects that are crucial for the continent&apos;s
+          growth. By supporting startups that develop innovative infrastructure
+          – whether in transportation, telecommunications, energy, or other
+          essential sectors – we aim to lay the groundwork for Africa&apos;s
+          future development. Our investments in tech-enabled businesses
+          complement this by driving digital transformation and economic
+          diversification.
         </p>
       </di>
       <Image alt="#" src={placeholder} />

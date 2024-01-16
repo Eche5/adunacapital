@@ -88,10 +88,10 @@ function Team() {
           Join Our <span className=" text-customRed">Journey.</span>
         </h1>
         <h2 className="text-[20px] font-medium">
-          Join Us At Aduna Capital, we're always looking for like-minded
+          Join Us At Aduna Capital, we&apos;re always looking for like-minded
           investors<br></br> and partners who share our passion for
-          transformative startups. If you're<br></br> interested in joining our
-          journey, invest with us.
+          transformative startups. If you&apos;re<br></br> interested in joining
+          our journey, invest with us.
         </h2>
         <div className=" flex justify-center gap-[40px] p-10">
           <button className=" bg-[#E02942] text-customBackground rounded-[30px] px-[24px] py-[12px] mt-[16px]">

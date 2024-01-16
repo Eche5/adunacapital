@@ -40,11 +40,11 @@ function Process() {
         <div className="flex flex-col items-center">
           <Image alt="#" src={beyond} />
           <h1 className=" text-customGrey text-[32px] font-bold">
-            Investment & Beyond{" "}
+            Investment & Beyond
           </h1>
           <p className=" text-[16px] font-normal text-center">
-            If there's a fit, we invest and work closely with you to<br></br>{" "}
-            accelerate growth.{" "}
+            If there&apos;s a fit, we invest and work closely with you to
+            <br></br> accelerate growth.
           </p>
         </div>
       </div>

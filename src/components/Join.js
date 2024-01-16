@@ -11,7 +11,7 @@ function Join() {
         portfolio with the vibrant future of African innovation and
         entrepreneurship. Connect with us to become a part of our mission to
         nurture groundbreaking startups and generate sustainable returns. Invest
-        with us and be an integral player in Africa's success story.
+        with us and be an integral player in Africa&apos;s success story.
       </p>
       <button className=" bg-[#E02942] text-customBackground rounded-[30px] px-[24px] py-[12px] mt-[16px]">
         Join Us

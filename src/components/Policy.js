@@ -7,7 +7,6 @@ import govern from "../../Assets/Image 11.png";
 function Policy() {
   return (
     <section className=" font-Montserrat">
-      {" "}
       <div className=" text-center p-20">
         <div>
           <h1 className=" text-customGrey text-[48px] text-center font-bold">
@@ -46,7 +45,7 @@ function Policy() {
           <div className="flex flex-col items-center">
             <Image alt="#" src={govern} />
             <h1 className=" text-[32px] font-bold py-4">
-              Governance<br></br> Structure{" "}
+              Governance<br></br> Structure
             </h1>
             <p className=" text-[16px] font-medium">
               Ensuring that our portfolio companies adhere to<br></br> the
@@ -63,14 +62,14 @@ function Policy() {
           accountability.
         </h1>
         <p className=" text-[black] font-normal text-[18px]">
-          Aduna Capital's investment philosophy drives growth and creates
+          Aduna Capital&apos;s investment philosophy drives growth and creates
           positive impact for African<br></br> startups and the economy.
         </p>
       </div>
       <div className=" text-center p-20">
         <h1 className=" text-customGrey text-[40px] font-bold">
           Join Our <span className=" text-customRed">Journey.</span>
-        </h1>{" "}
+        </h1>
         <p>
           We invite you to explore our portfolio and learn more about our
           investment<br></br> philosophy. If you are an entrepreneur seeking a

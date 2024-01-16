@@ -7,7 +7,7 @@ function Faq() {
         FAQ<span className=" text-customRed">s</span>
       </h1>
       <p className=" text-[18px] font-medium">
-        Have questions? We've got answers. Check out our FAQs for quick
+        Have questions? We&apos;ve got answers. Check out our FAQs for quick
         information on<br></br> our investment process, what we look for, and
         how we support our portfolio companies.
       </p>
@@ -50,7 +50,6 @@ function Faq() {
         </div>
       </div>
       <div>
-        {" "}
         <h1 className=" text-[32px] font-bold text-customGrey">
           Still have questions<span className=" text-customRed">?</span>
         </h1>

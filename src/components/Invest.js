@@ -14,12 +14,12 @@ function Invest() {
           Invest with Purpose<span className=" text-customRed">.</span>
         </h2>
         <p>
-          Aduna Capital is not just about venture capital; it's about venture
-          impact. Our unique approach combines rigorous due diligence, a
+          Aduna Capital is not just about venture capital; it&apos;s about
+          venture impact. Our unique approach combines rigorous due diligence, a
           commitment to ESG principles, and a deep understanding of the African
-          market. We offer our investors the opportunity to be part of Africa's
-          growth story, contributing to a portfolio that's as diverse as it is
-          dynamic.
+          market. We offer our investors the opportunity to be part of
+          Africa&apos;s growth story, contributing to a portfolio that&apos;s as
+          diverse as it is dynamic.
         </p>
         <button className=" bg-[#E02942] text-customBackground rounded-[30px] px-[24px] py-[12px] mt-[16px]">
           Invest with Aduna Capital
